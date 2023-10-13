@@ -79,7 +79,9 @@
 <div align="center>
 
 #### AI
+
 <br>
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
@@ -104,6 +106,10 @@
 
 
 </div>
+
+<br>
+<br>
+<br>
 
 ### 👨‍👩‍👧‍👦 Repository
 > ⚙️ **[Team Notion](https://www.notion.so/2023-fb2fdfca3c814d8488e937b79606b810?pvs=4)** <Br>
