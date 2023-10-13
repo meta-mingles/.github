@@ -112,10 +112,10 @@
 <br>
 
 ### 👨‍👩‍👧‍👦 Repository
-> ⚙️ **[Team Notion](https://www.notion.so/2023-fb2fdfca3c814d8488e937b79606b810?pvs=4)** <Br>
+> ⚙️ **[Team Documents](https://drive.google.com/drive/folders/1dwZ84u-0upx4T0WcLvNmQJfZbHXXFqU5)** <Br>
 > ⚙️ **[AI Repository](https://github.com/meta-mingles/)** <Br>
 > ⚙️ **[Unity Repository](https://github.com/meta-mingles)** <Br>
-> ⚙️ **[Server Repository](https://github.com/meta-mingles)** <Br>
+> ⚙️ **[Server Repository](https://github.com/meta-mingles/metamingle-server)** <Br>
 <br>
 <br>
 <br>
