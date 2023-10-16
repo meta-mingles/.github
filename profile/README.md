@@ -32,7 +32,7 @@
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
     <td align="center"><a href="https://github.com/narae3759"><img src="https://avatars.githubusercontent.com/narae3759" width="150px;" alt="">
     <td align="center"><a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JCURVEs"><img src="https://avatars.githubusercontent.com/JCURVEs" width="150px;" alt="">
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
@@ -51,7 +51,7 @@
     <td align="center"><a href="https://github.com/"><b>변지민</b></td>
     <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></td>
     <td align="center"><a href="https://github.com/yechan-9208"><b>원예찬</b></td>
-    <td align="center"><a href="https://github.com/"><b>김형훈</b></td>
+    <td align="center"><a href="https://github.com/hhkim331"><b>김형훈</b></td>
     <td align="center"><a href="https://github.com/JCURVEs"><b>조재희</b></td>
     <td align="center"><a href="https://github.com/numerical43"><b>강수의</b></td>
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
@@ -114,7 +114,7 @@
 ### 👨‍👩‍👧‍👦 Repository
 > ⚙️ **[Team Documents](https://drive.google.com/drive/folders/1dwZ84u-0upx4T0WcLvNmQJfZbHXXFqU5)** <Br>
 > ⚙️ **[AI Repository](https://github.com/meta-mingles/)** <Br>
-> ⚙️ **[Unity Repository](https://github.com/meta-mingles)** <Br>
+> ⚙️ **[Unity Repository](https://github.com/hhkim331/metamingle)** <Br>
 > ⚙️ **[Server Repository](https://github.com/meta-mingles/metamingle-server)** <Br>
 <br>
 <br>
