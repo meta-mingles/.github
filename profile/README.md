@@ -79,7 +79,7 @@
     <td align="center"><strong>팀장💗 <br>대본 생성</strong></td>
     <td align="center"><strong>Pose Estimation, <br> 유니티 통</strong></td>
     <td align="center"><strong>크리에이티브 툴</strong></td>
-    <td align="center"><strong>아바타, 플랫폼, <br> 동영상</strong></td>
+    <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
     <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
     <td align="center"><strong>회원, 아바타</strong></td>
   </tr>
@@ -108,6 +108,7 @@
  #### UNITY
  <img src="https://img.shields.io/badge/c%23-%23013243.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+ <img src="https://img.shields.io/badge/Photon-161637?style=for-the-badge&logo=photocrowd&logoColor=00e5ff">
 
 
 <br>
@@ -117,7 +118,13 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-%23008080?style=for-the-badge&logo=socket.io&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+
+<br>
+
+ #### 협업툴
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 
 
 </div>
