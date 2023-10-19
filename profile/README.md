@@ -45,7 +45,7 @@
 > **메타버스 아카데미 2기** <br/> **개발기간: 2023.10.07 ~ 2023.11.30**
 <table>
   <tr>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
+    <td align="center"><a href=""><img src="https://github.com/meta-mingles/.github/assets/88484476/a55408fe-9a01-4af0-ab3c-7d6e46cae619" width="150px;" alt="">
     <td align="center"><a href="https://github.com/narae3759"><img src="https://avatars.githubusercontent.com/narae3759" width="150px;" alt="">
     <td align="center"><a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
@@ -62,7 +62,7 @@
     <td align="center"><strong>Server</strong></td>
     <td align="center"><strong>Server</strong></td>
   </tr>
-      
+
   <tr>
     <td align="center"><a href="https://github.com/"><b>변지민</b></td>
     <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></td>
@@ -75,16 +75,15 @@
   </tr>
 
   <tr>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
-    <td align="center"><strong>담당업무</strong></td>
+    <td align="center"><strong>일정관리, <br> 스토리보드</strong></td>
+    <td align="center"><strong>팀장💗 <br>대본 생성</strong></td>
+    <td align="center"><strong>Pose Estimation, <br> 유니티 통</strong></td>
+    <td align="center"><strong>크리에이티브 툴</strong></td>
+    <td align="center"><strong>아바타, 플랫폼</strong></td>
+    <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
+    <td align="center"><strong>회원, 아바타</strong></td>
   </tr>
 </table>
-<br>
 
 <br>
 <br>
