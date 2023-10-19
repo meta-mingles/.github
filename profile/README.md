@@ -79,7 +79,7 @@
     <td align="center"><strong>팀장💗 <br>대본 생성</strong></td>
     <td align="center"><strong>Pose Estimation, <br> 유니티 통</strong></td>
     <td align="center"><strong>크리에이티브 툴</strong></td>
-    <td align="center"><strong>아바타, 플랫폼</strong></td>
+    <td align="center"><strong>아바타, 플랫폼, <br> 동영상</strong></td>
     <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
     <td align="center"><strong>회원, 아바타</strong></td>
   </tr>
