@@ -1,28 +1,28 @@
-title: "[반-이름] "
+title: "[General] "
 labels: ["General Introduction"]
 body:
   - type: markdown
     attributes:
       value: |
-        Discussion 템플릿입니다. 담당 파트와 이름을 제목에 작성해주세
+        This is text that will show up in the template!
   - type: textarea
     id: improvements
     attributes:
       label: Top 3 improvements
       description: "What are the top 3 improvements we could make to this project?"
       value: |
-      ```
-      코드 작성 부분입니다. 언어도 함께 적어주세요
-      ```
-      
-        그 외 기타 사항들을 상세하게 적어주세요.
-        - [] 
-        - [] 
-        - [] 
+        1.
+        2.
+        3.
         ...
       render: bash
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Markdown header
+        And some more markdown
   - type: input
     id: has-id
     attributes:
@@ -30,6 +30,24 @@ body:
       description: A description about suggestions to help you
     validations:
       required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: Which area of this project could be most improved?
+      options:
+        - Documentation
+        - Pull request review time
+        - Bug fix time
+        - Release cadence
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Check that box!
+      options:
+        - label: This one!
+          required: true
+        - label: I won't stop you if you check this one, too
   - type: markdown
     attributes:
       value: |
