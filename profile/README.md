@@ -45,7 +45,7 @@
 > **메타버스 아카데미 2기** <br/> **개발기간: 2023.10.07 ~ 2023.11.30**
 <table>
   <tr>
-    <td align="center"><a href=""><img src="https://github.com/meta-mingles/.github/assets/88484476/a55408fe-9a01-4af0-ab3c-7d6e46cae619" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Brend0305"><img src="https://avatars.githubusercontent.com/Brend0305" width="150px;" alt="">
     <td align="center"><a href="https://github.com/narae3759"><img src="https://avatars.githubusercontent.com/narae3759" width="150px;" alt="">
     <td align="center"><a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
