@@ -78,7 +78,7 @@
     <td align="center"><strong>크리에이티브 툴</strong></td>
     <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
     <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
-    <td align="center"><strong>회원, 아바타, <br> 대본, 광장</strong></td>
+    <td align="center"><strong>회원, 아바타, <br> 대본</strong></td>
   </tr>
 </table>
 
