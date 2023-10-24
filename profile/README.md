@@ -51,37 +51,7 @@
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JCURVEs"><img src="https://avatars.githubusercontent.com/JCURVEs" width="150px;" alt="">
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
-  </tr>
-  <tr>
-    <td align="center"><strong>기획</strong></td>
-    <td align="center"><strong>AI</strong></td>
-    <td align="center"><strong>AI</strong></td>
-    <td align="center"><strong>Unity</strong></td>
-    <td align="center"><strong>Unity</strong></td>
-    <td align="center"><strong>Server</strong></td>
-    <td align="center"><strong>Server</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center"><a href="https://github.com/"><b>변지민</b></td>
-    <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></td>
-    <td align="center"><a href="https://github.com/yechan-9208"><b>원예찬</b></td>
-    <td align="center"><a href="https://github.com/hhkim331"><b>김형훈</b></td>
-    <td align="center"><a href="https://github.com/JCURVEs"><b>조재희</b></td>
-    <td align="center"><a href="https://github.com/numerical43"><b>강수의</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
-
-  </tr>
-
-  <tr>
-    <td align="center"><strong>일정관리, <br> 스토리보드</strong></td>
-    <td align="center"><strong>팀장💗 <br>대본 생성</strong></td>
-    <td align="center"><strong>Pose Estimation, <br> 유니티 통신</strong></td>
-    <td align="center"><strong>크리에이티브 툴</strong></td>
-    <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
-    <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
-    <td align="center"><strong>회원, 아바타</strong></td>
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubuserconten장</strong></td>
   </tr>
 </table>
 
