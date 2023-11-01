@@ -3,8 +3,8 @@
   ## 👨‍👩‍👧‍👦메타 밍글 : META MINGLE
 
   <br>
-
-  로고(수정)
+  
+![meta mingle_text](https://github.com/meta-mingles/.github/assets/61495627/d16d7f33-ea93-46d7-9ec1-0d4a7fb7cb00)
 
   <br>
 
