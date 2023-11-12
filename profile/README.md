@@ -3,10 +3,10 @@
   ## 👨‍👩‍👧‍👦메타 밍글 : META MINGLE
 
   <br>
-  
-![Group 1000004960](https://github.com/meta-mingles/.github/assets/88484476/e207047f-74fb-462d-9915-8b4c140388d3)
 
+  <img src="https://github.com/meta-mingles/.github/assets/88484476/e207047f-74fb-462d-9915-8b4c140388d3" width="500"/>
 
+  <br>
   <br>
 
 >  `MINGLE : 돌아다니다, 섞이다, 어우러지다`
