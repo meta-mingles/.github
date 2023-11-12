@@ -4,7 +4,7 @@
 
   <br>
 
-  <img src="https://github.com/meta-mingles/.github/assets/88484476/e207047f-74fb-462d-9915-8b4c140388d3" width="500"/>
+  <img src="https://github.com/meta-mingles/.github/assets/88484476/6c623e90-4758-423b-b493-56f548f5b6d2" width="500"/>
 
   <br>
   <br>
