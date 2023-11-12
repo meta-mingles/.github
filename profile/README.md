@@ -4,7 +4,8 @@
 
   <br>
   
-![meta mingle_text](https://github.com/meta-mingles/.github/assets/61495627/d16d7f33-ea93-46d7-9ec1-0d4a7fb7cb00)
+![Group 1000004960](https://github.com/meta-mingles/.github/assets/88484476/e207047f-74fb-462d-9915-8b4c140388d3)
+
 
   <br>
 
