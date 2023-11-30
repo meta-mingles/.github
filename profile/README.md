@@ -130,7 +130,7 @@
 <br>
 
 ### 👨‍👩‍👧‍👦 Repository
-> ⚙️ **[Team Documents](https://drive.google.com/drive/folders/1dwZ84u-0upx4T0WcLvNmQJfZbHXXFqU5)** <Br>
+> ⚙️ **[Team Documents](https://github.com/orgs/meta-mingles/discussions)** <Br>
 > ⚙️ **[AI Repository](https://github.com/meta-mingles/metamingle-AI)** <Br>
 > ⚙️ **[Unity Repository](https://github.com/meta-mingles/metamingleUnity)** <Br>
 > ⚙️ **[Server Repository](https://github.com/meta-mingles/metamingle-server)** <Br>
