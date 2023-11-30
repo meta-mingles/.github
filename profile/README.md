@@ -131,8 +131,8 @@
 
 ### 👨‍👩‍👧‍👦 Repository
 > ⚙️ **[Team Documents](https://drive.google.com/drive/folders/1dwZ84u-0upx4T0WcLvNmQJfZbHXXFqU5)** <Br>
-> ⚙️ **[AI Repository](https://github.com/meta-mingles/)** <Br>
-> ⚙️ **[Unity Repository](https://github.com/hhkim331/metamingle)** <Br>
+> ⚙️ **[AI Repository](https://github.com/meta-mingles/metamingle-AI)** <Br>
+> ⚙️ **[Unity Repository](https://github.com/meta-mingles/metamingleUnity)** <Br>
 > ⚙️ **[Server Repository](https://github.com/meta-mingles/metamingle-server)** <Br>
 <br>
 <br>
@@ -149,8 +149,6 @@
 
 3️⃣ Discord 알람 ON 💻
 ```
-
-
 
   
 
