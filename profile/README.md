@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## 👨‍👩‍👧‍👦메타 밍글 : META MINGLE
+  # 👨‍👩‍👧‍👦메타 밍글 : META MINGLE
 
   <br>
 
@@ -9,11 +9,11 @@
   <br>
   <br>
 
->  `MINGLE : 돌아다니다, 섞이다, 어우러지다`
-> 
->  **메타 밍글은 숏폼, 인터랙티브 무비를 통한 문화 교류 커뮤니티 메타버스 플랫폼입니다.**
->
-> ### **언어로 소통하고, 문화로 연결하며, 창작으로 재미를 더하는 MetaMingle!**
+  `MINGLE : 돌아다니다, 섞이다, 어우러지다`
+ 
+  **메타 밍글은 숏폼, 인터랙티브 무비를 통한 문화 교류 커뮤니티 메타버스 플랫폼입니다.**
+
+ ### **언어로 소통하고, 문화로 연결하며, 창작으로 재미를 더하는 MetaMingle!**
 
  <br>
 
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### 👨‍👩‍👧‍👦 주요 기능 소개
+## 👨‍👩‍👧‍👦 주요 기능 소개
 
 **`1️⃣ 메타버스 공간 안에서 나만의 아바타를 제작할 수 있습니다. `**
 
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-### 👨‍👩‍👧‍👦 팀원 소개 
+## 👨‍👩‍👧‍👦 팀원 소개 
 **메타버스 아카데미 2기** <br/> **개발기간: 2023.10.07 ~ 2023.11.30**
 <table>
   <tr>
@@ -87,14 +87,16 @@
 <br>
 <br>
 
-### 👨‍👩‍👧‍👦 기술 스택
+## 👨‍👩‍👧‍👦 기술 스택
+
+<br>
 
 <div align="center>
 
-
-
-#### AI
 <br>
+
+**AI**
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
@@ -102,32 +104,47 @@
 <img src="https://img.shields.io/badge/LangChain-%232C2D72?style=for-the-badge&logo=chatbot&logoColor=white">
 
 <br>
+<br>
 
- #### UNITY
+**UNITY**
+
  <img src="https://img.shields.io/badge/c%23-%23013243.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
  <img src="https://img.shields.io/badge/Photon-161637?style=for-the-badge&logo=photocrowd&logoColor=00e5ff">
 
-
+<br>
 <br>
 
- #### SERVER
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+**SERVER**
 
+<img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=Java&logoColor=f89820"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/firebase-1B3A57?style=for-the-badge&logo=firebase&logoColor=F5820D"> 
+<img src="https://img.shields.io/badge/Redis-c93131?style=for-the-badge&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=00758f"> 
+<img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=MongoDB&logoColor=00ED64">
+<br>
+<img src="https://img.shields.io/badge/Jenkins-181717?style=for-the-badge&logo=Jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=Docker&logoColor=0db7ed">
 
 <br>
+<br>
 
- #### 협업툴
+**협업툴**
+
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Miro-F7DF1E?style=for-the-badge&logo=Miro&logoColor=black">
 </div>
 
 <br>
-<br>
-<br>
+
+## 🧱 기술융합구조
+![기술융합구조도](https://github.com/meta-mingles/.github/assets/61495627/e4df2a1d-0ca2-4345-b2e2-dbbbf14139ad)
+
+
 
 ### 👨‍👩‍👧‍👦 Repository
 > ⚙️ **[Team Documents](https://github.com/orgs/meta-mingles/discussions)** <Br>
@@ -135,10 +152,6 @@
 > ⚙️ **[Unity Repository](https://github.com/meta-mingles/metamingleUnity)** <Br>
 > ⚙️ **[Server Repository](https://github.com/meta-mingles/metamingle-server)** <Br>
 <br>
-<br>
-<br>
-
-
 
 
 ### 👨‍👩‍👧‍👦 Team Rule
