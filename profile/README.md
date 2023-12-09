@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/"><b>변지민</b></td>
-    <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></td>
+    <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></a>(팀장) </td>
     <td align="center"><a href="https://github.com/yechan-9208"><b>원예찬</b></td>
     <td align="center"><a href="https://github.com/hhkim331"><b>김형훈</b></td>
     <td align="center"><a href="https://github.com/JCURVEs"><b>조재희</b></td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td align="center"><strong>일정관리, <br> 스토리보드</strong></td>
-    <td align="center"><strong>팀장💗<br> Face Detection, Pose Estimation,</br>Hand Landmark Detection, Unity Barracuda  </strong></td>
+    <td align="center"><strong> Face Detection, Pose Estimation, <br> Hand Landmark Detection, Unity Barracuda  </strong></td>
     <td align="center"><strong> LLM(gpt-4.0), Text to Image(SD-XL),</br> 영상 자막 생성, 서버 통신 </strong></td>
     <td align="center"><strong>크리에이티브 툴</strong></td>
     <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
