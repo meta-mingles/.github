@@ -134,7 +134,8 @@
 <br>
 
 ## 🧱 기술융합구조
-![기술융합구조도](https://github.com/meta-mingles/.github/assets/61495627/e4df2a1d-0ca2-4345-b2e2-dbbbf14139ad)
+![기술융합구조도](https://github.com/meta-mingles/.github/assets/61495627/d739973f-9e80-4bc6-a5df-d5073a6a0c7e)
+
 
 
 
