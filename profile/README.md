@@ -51,7 +51,7 @@
     <td align="center"><a href="https://github.com/Brend0305"><img src="https://avatars.githubusercontent.com/Brend0305" width="150px;" alt="">
     <td align="center"><a href="https://github.com/narae3759"><img src="https://avatars.githubusercontent.com/narae3759" width="150px;" alt="">
     <td align="center"><a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="150px;" alt="">
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hhkkim331"><img src="https://avatars.githubusercontent.com/hhkim331" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JCURVEs"><img src="https://avatars.githubusercontent.com/JCURVEs" width="150px;" alt="">
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
@@ -76,8 +76,8 @@
   </tr>
   <tr>
     <td align="center"><strong>일정관리, <br> 스토리보드</strong></td>
-    <td align="center"><strong> Face Detection, <br>Pose Estimation, <br> Hand Landmark Detection, Unity Barracuda  </strong></td>
-    <td align="center"><strong> LLM(gpt-4.0), Text to Image(SD-XL),</br> 영상 자막 생성, 서버 통신 </strong></td>
+    <td align="center"><strong> Face Detection, <br>Pose Estimation, <br> Hand Landmark <br>Detection, Unity Barracuda  </strong></td>
+    <td align="center"><strong> LLM(gpt-4.0), <br>Text to Image(SD-XL),</br> 영상 자막 생성, <br>서버 통신 </strong></td>
     <td align="center"><strong>크리에이티브 툴</strong></td>
     <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
     <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
