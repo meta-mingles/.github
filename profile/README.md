@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td align="center"><strong>일정관리, <br> 스토리보드</strong></td>
-    <td align="center"><strong> Face Detection, Pose Estimation, <br> Hand Landmark Detection, Unity Barracuda  </strong></td>
+    <td align="center"><strong> Face Detection, <br>Pose Estimation, <br> Hand Landmark Detection, Unity Barracuda  </strong></td>
     <td align="center"><strong> LLM(gpt-4.0), Text to Image(SD-XL),</br> 영상 자막 생성, 서버 통신 </strong></td>
     <td align="center"><strong>크리에이티브 툴</strong></td>
     <td align="center"><strong>아바타, 플랫폼, <br> 동영상, 포톤</strong></td>
