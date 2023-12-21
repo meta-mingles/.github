@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👨‍👩‍👧‍👦메타 밍글 : META MINGLE
+  # 👨‍👩‍👧‍👦 메타 밍글 : META MINGLE
 
   <br>
 
@@ -30,21 +30,25 @@
 
 ### 크리에이터 툴
 
-**`1️⃣ 웹캠 - Unity 실시간 모션트래킹 `**
-
-**`2️⃣ 사용자 경험담으로 AI 대본, 배경 이미지, BGM 생성 `**
-
-**`3️⃣ 사용자가 만든 영상에 한/영 자막 자동생성 `**
+> **`1️⃣ 웹캠 - Unity 실시간 모션트래킹 `**
+>
+> **`2️⃣ 사용자 경험담으로 AI 대본, 배경 이미지, BGM 생성 `**
+>
+> **`3️⃣ 사용자가 만든 영상에 한/영 자막 자동생성 `**
 
 ### 플랫폼
 
-**`1️⃣ 사용자 경험담으로 퀴즈 만들기 `**
+> **`1️⃣ 사용자 경험담으로 퀴즈 만들기 `**
+> 
+> **`2️⃣ 다중 사용자 환경 & 채팅 `**
+> 
+> **`3️⃣ 크리에이터들이 제작한 동영상 감상 `**
 
 <br>
 <br>
 <br>
 
-## 시연 영상
+## 👨‍👩‍👧‍👦 시연 영상
 [![Video Label](https://github.com/meta-mingles/.github/assets/88484476/e7527860-f455-41a6-a82c-7cd4f2e8c83b)](https://youtu.be/TtD8kEjEgMs)
 
 
@@ -120,8 +124,8 @@
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
   </tr>
   <tr>
-    <td align="center"><strong>숏폼, 무비, <br> 좋아요</strong></td>
-    <td align="center"><strong>회원, 아바타, <br> 대본</strong></td>
+    <td align="center"><strong>숏폼 & 인터렉티브 무비 (영상),  <br> 좋아요, 배포 자동화</strong></td>
+    <td align="center"><strong>회원, 아바타, <br> 대본 스트리밍, AI 배경&BGM</strong></td>
   </tr>
 </table>
 
@@ -146,14 +150,14 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-%232C2D72?style=for-the-badge&logo=chatbot&logoColor=white">
 
 <br>
-<br>
+
 
 **UNITY**
 
  <img src="https://img.shields.io/badge/c%23-%23013243.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Photon-161637?style=for-the-badge&logo=photocrowd&logoColor=00e5ff">
 
 <br>
-<br>
+
 
 **SERVER**
 
@@ -166,7 +170,7 @@
 <img src="https://img.shields.io/badge/Jenkins-181717?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=Docker&logoColor=0db7ed">
 
 <br>
-<br>
+
 
 **협업툴**
 
