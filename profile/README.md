@@ -117,11 +117,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/numerical43"><b>강수의</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
+    <td align="center"><a href="https://github.com/silverpoodle"><b>손정인</b></td>
   </tr>
   <tr>
     <td align="center"><strong>숏폼 & 인터렉티브 무비 (영상),  <br> 좋아요, 배포 자동화</strong></td>
